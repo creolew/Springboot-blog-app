@@ -4,7 +4,7 @@ I will follow the Real-time industry-standard project development approach in th
 
 # Tools and Technologies used in this course:
 Technologies: <br />
-  &nbsb Java 17; <br />
+  &emsp; Java 17; <br />
   Spring Boot <br />
   Spring MVC <br />
   Spring Data JPA ( Hibernate) <br />
