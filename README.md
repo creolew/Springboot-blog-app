@@ -22,28 +22,28 @@ Tools: <br />
   
   # This is HTTPs request used in Postman:
   Comment Controller: <br />
-    &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (GET)
-    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (PUT)
+    &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (GET) <br />
+    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (PUT) <br />
 
-    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (DELETE)
-    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments (GET)
-    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments (POST)
+    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (DELETE) <br />
+    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments (GET) <br />
+    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments (POST) <br />
  <br />
   
   Post Controller: <br />
-   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{id} (GET)
-   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{id} (PUT)
-   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{id} (DELETE)
-   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts (GET)
-   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts (POST)
-   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/category/{id} (DELETE)
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{id} (GET) <br />
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{id} (PUT) <br />
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{id} (DELETE) <br />
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts (GET) <br />
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts (POST) <br />
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/category/{id} (DELETE) <br />
   Category Controller: <br />
-   &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories/{id} (GET)
-    &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories/{id} (PUT)
-     &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories/{id} (DELETE)
-      &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories (GET)
-      &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories (POST)
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories/{id} (GET) <br />
+    &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories/{id} (PUT) <br />
+     &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories/{id} (DELETE) <br />
+      &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories (GET) <br />
+      &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories (POST) <br />
   Auth Controller: <br />
-   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/auth/login (POST)
-   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/auth/register (POST)
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/auth/login (POST) <br />
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/auth/register (POST) <br />
 
