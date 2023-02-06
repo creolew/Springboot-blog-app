@@ -36,12 +36,14 @@ Tools: <br />
    &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts (GET) <br />
    &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts (POST) <br />
    &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/category/{id} (DELETE) <br />
+   
   Category Controller: <br />
    &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories/{id} (GET) <br />
     &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories/{id} (PUT) <br />
      &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories/{id} (DELETE) <br />
       &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories (GET) <br />
       &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories (POST) <br />
+      
   Auth Controller: <br />
    &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/auth/login (POST) <br />
    &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/auth/register (POST) <br />
