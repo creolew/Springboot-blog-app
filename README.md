@@ -22,7 +22,7 @@ Tools: <br />
   
   # This is HTTPs request used in Postman:
   Comment Controller: <br />
-    &emsp;   'https://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id}' 
+    &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id}
  <br />
   
   Post Controller: <br />
