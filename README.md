@@ -17,3 +17,6 @@ Tools: <br />
   &emsp; Swagger - API documentation <br />
   &emsp; Postman - Test REST API <br />
   &emsp; Maven - Build Tool <br />
+  
+ Deployment: <br />
+  &emsp; Railway <br />
