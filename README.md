@@ -22,12 +22,28 @@ Tools: <br />
   
   # This is HTTPs request used in Postman:
   Comment Controller: <br />
-    &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id}
+    &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (GET)
+    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (PUT)
+
+    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (DELETE)
+    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments (GET)
+    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments (POST)
  <br />
   
   Post Controller: <br />
-  
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{id} (GET)
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{id} (PUT)
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{id} (DELETE)
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts (GET)
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts (POST)
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/category/{id} (DELETE)
   Category Controller: <br />
-  
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories/{id} (GET)
+    &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories/{id} (PUT)
+     &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories/{id} (DELETE)
+      &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories (GET)
+      &emsp;   https://springboot-blog-app-production.up.railway.app/api/categories (POST)
   Auth Controller: <br />
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/auth/login (POST)
+   &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/auth/register (POST)
 
