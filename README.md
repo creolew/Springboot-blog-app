@@ -23,11 +23,10 @@ Tools: <br />
   # This is HTTPs request used in Postman:
   Comment Controller: <br />
     &emsp;   https://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (GET) <br />
-    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (PUT) <br />
-
-    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (DELETE) <br />
-    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments (GET) <br />
-    &emsp;     http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments (POST) <br />
+    &emsp;   http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (PUT) <br />
+    &emsp;   http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments/{id} (DELETE) <br />
+    &emsp;   http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments (GET) <br />
+    &emsp;   http://springboot-blog-app-production.up.railway.app/api/v1/posts/{postId}/comments (POST) <br />
  <br />
   
   Post Controller: <br />
